@@ -1,6 +1,6 @@
-# hello-world
+# hello-world 
 
-Hey everyone!
+Hey everyone! 👋
 
 My name is JAYANT NAMRANI. 
 
